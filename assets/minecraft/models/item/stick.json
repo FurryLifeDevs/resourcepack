@@ -5,6 +5,8 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/custom/dick"}
+        {"predicate": {"custom_model_data":1}, "model": "item/custom/changed_tiger_shark"},
+        {"predicate": {"custom_model_data":2}, "model": "item/custom/changed_tiger_shark_red"},
+        {"predicate": {"custom_model_data":3}, "model": "item/custom/latex"}
     ]
 }
